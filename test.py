@@ -2,7 +2,7 @@ def sayHello():
     print("Hello, World!")
 
 def sayGoodbye():
-    print("Goodbye, World!")
+    print("Goodbye, everyone!")
 
 sayHello()
 sayGoodbye()
