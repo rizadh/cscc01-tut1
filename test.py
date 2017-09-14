@@ -1,8 +1,8 @@
 def sayHello():
-    print("Hello, everyone!")
+    print("Hello, Everyone!")
 
 def sayGoodbye():
-    print("Goodbye, everyone!")
+    print("Goodbye, Everyone!")
 
 sayHello()
 sayGoodbye()
